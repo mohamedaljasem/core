@@ -69,5 +69,6 @@ export default function Partners() {
     </section>
   )
 }
+// test vercel pull
 
 
