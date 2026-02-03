@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  // TypeScript errors are checked - no ignoring errors
+  // ESLint is handled via .eslintrc.json
 };
 
 module.exports = nextConfig;
