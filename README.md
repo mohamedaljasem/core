@@ -15,7 +15,7 @@ A premium Saudi corporate training website built with Next.js, Tailwind CSS, and
 
 ## 🚀 Features
 
-- ✅ Next.js 15 with App Router
+- ✅ Next.js 16 with App Router
 - ✅ Tailwind CSS with custom design system
 - ✅ Full RTL (Right-to-Left) support
 - ✅ Responsive design (desktop-first, mobile-optimized)
